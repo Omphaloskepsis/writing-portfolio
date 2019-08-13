@@ -3,9 +3,9 @@ David Welsch
 <br>_Writing samples and related work products_
 ## User and Developer Guides
 <p>
-[Cisco UCS Director Orchestration Guide, Release 6.7](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html)
+The [Cisco UCS Director Orchestration Guide, Release 6.7](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html) is a guide for users of Cisco UCS Director.
 </p><p>
-[Cisco UCS Director Open Automation Getting Started Guide, Release 6.6](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html)
+The [Cisco UCS Director Open Automation Getting Started Guide, Release 6.6](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html) is for beginning users of _Cisco UCS Director Open Automation_, a toolkit for writing third-party device drivers for UCS Director.
 </p>
 
 ## API References
