@@ -14,7 +14,7 @@ These documents involve English-language explanation of concepts and tasks to a 
 ### _[Cisco UCS Director Orchestration Guide, Release 6.7](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html)_
 A guide to using UCS Director Orchestration, a library of tasks (and supporting tools) for creating workflows to deploy, provision, and configure data center resources. I reorganized and substantially rewrote the guide beginning with Release 5.4. 
 
-### _[Cisco UCS Director Open Automation Getting Started Guide, Release 6.6](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/orchestration-guide/6-7/cisco-ucs-director-orchestration-67.html)_
+### _[Cisco UCS Director Open Automation Getting Started Guide, Release 6.6](https://www.cisco.com/c/en/us/td/docs/unified_computing/ucs/ucs-director/open-automation-getting-started-guide/6-6/cisco-ucs-director-open-automation-getting-started-66.html)_
 One of a set of guides, new with Release 5.4, for "bootstrapping" developers' use of various SDKs and APIs related to Cisco UCS Director. Open Automation is a toolkit for adding third-party components such as storage devices to the entities controllable by UCS Director.
 
 
