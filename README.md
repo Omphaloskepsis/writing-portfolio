@@ -35,8 +35,6 @@ Work on this document included generating and extracting information from softwa
 
 I wrote and edited scripts and recorded the screen captures for the following product demonstration videos. I liaised with our videographer to produce the videos.
 
-### _[Cisco UCS Director Flexpod Configuration](https://www.youtube.com/watch?v=GXeUi3zGUrk&list=PLIlKAL_0d4EzcD9Eb5Xeff6eDIUwD3Bm2&index=4&t=0s)_
-
 ### _[Cisco UCS Director Device Discovery](https://www.youtube.com/watch?v=hkhvwo1pbmk&list=PLIlKAL_0d4EzcD9Eb5Xeff6eDIUwD3Bm2&index=3&t=0s)_
 
 ### _[Cisco UCS Director - Deploying and Configuring Bare Metal Agent](https://www.youtube.com/watch?v=S380fK6Q0ys&list=PLIlKAL_0d4EzcD9Eb5Xeff6eDIUwD3Bm2&index=8&t=0s)_
